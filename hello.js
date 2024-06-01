@@ -5,6 +5,7 @@ to the console (the panel on the right)
 */
 
 console.log("Hello, World!"); 
+// practice with comments and push practice!
 
 /*  
 Next, PLAY! 
